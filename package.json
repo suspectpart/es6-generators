@@ -1,0 +1,15 @@
+{
+  "name": "es6-generators",
+  "version": "1.0.0",
+  "description": "Playing around with generators.",
+  "main": "lib.js",
+  "scripts": {
+    "test": "mocha lib.spec.js"
+  },
+  "author": "Horst Schneider",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.13.0",
+    "mocha": "^5.2.0"
+  }
+}
